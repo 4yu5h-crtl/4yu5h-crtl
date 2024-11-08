@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayush Chintalwar</h1>
 <h3 align="center">AI/ML and Robotics Enthusiast and Student from India.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=4yu5h-crtl&label=Profile%20views&color=0e75b6&style=flat" alt="4yu5h-crtl" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4yu5h-crtl" alt="4yu5h-crtl" /></a> </p>
+
 - 📫 How to reach me **ayush.chintalwar1234@gmail.com**
 
 - ⚡ Fun fact **I make AI art, check them out at https://civitai.green/user/Derek_160**
