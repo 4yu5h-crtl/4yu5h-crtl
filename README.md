@@ -8,9 +8,9 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM1ZjlraDJrZ2Q3cHFsbHdoe
 
 - 📫 How to reach me: [Email](ayush.chintalwar1234@gmail.com)
 
-- 📄 Know about my experiences: [Resume](https://bit.ly/40D4QJC)
+- 📄 Know about my experiences: <a href="https://bit.ly/40D4QJC" target="_blank" rel="noopener noreferrer">Resume</a>
 
-- ⚡ Fun fact: I make AI art, check them out at [CivitAI](https://civitai.green/user/Derek_160)
+- ⚡ Fun fact: I make AI art, check them out at <a href="https://civitai.green/user/Derek_160" target="_blank" rel="noopener noreferrer">CivitAI</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
