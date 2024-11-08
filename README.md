@@ -2,9 +2,9 @@
 <h3 align="center">AI/ML and Robotics Enthusiast from India. </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=4yu5h-crtl&label=Profile%20views&color=0e75b6&style=flat" alt="4yu5h-crtl" /> </p>
 <p align="center"> <img
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM1ZjlraDJrZ2Q3cHFsbHdoeG90NG5nYjQ3d2E2eWZicWZ0b3prMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp" width="280" height="280" /> </p>
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM1ZjlraDJrZ2Q3cHFsbHdoeG90NG5nYjQ3d2E2eWZicWZ0b3prMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp" width="200" height="200" /> </p>
 
-- 🌱 I’m currently learning: **Prompt Engineering and Generative AI Techniques**
+- 🌱 I’m currently learning: **Prompt Engineering and Generative AI Techniques.**
 
 - 📫 How to reach me: [Email](ayush.chintalwar1234@gmail.com)
 
