@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Ayush Chintalwar</h1>
 <h3 align="center">AI/ML and Robotics Enthusiast from India. </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4yu5h-crtl&label=Profile%20views&color=0e75b6&style=flat" alt="4yu5h-crtl" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=4yu5h-crtl&label=Profile%20views&color=0e75b6&style=flat" alt="4yu5h-crtl" /> </p>
+<p align="center"> <img
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM1ZjlraDJrZ2Q3cHFsbHdoeG90NG5nYjQ3d2E2eWZicWZ0b3prMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.webp" width="280" height="280" /> </p>
 
 - 🌱 I’m currently learning: **Prompt Engineering and Generative AI Techniques**
 
