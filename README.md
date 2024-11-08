@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **ayush.chintalwar1234@gmail.com**
 
-- ⚡ Fun fact **I make AI art, check them out on https://civitai.green/user/Derek_160**
+- ⚡ Fun fact **I make AI art, check them out at https://civitai.green/user/Derek_160**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
