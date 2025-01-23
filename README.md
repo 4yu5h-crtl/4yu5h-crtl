@@ -10,7 +10,7 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM1ZjlraDJrZ2Q3cHFsbHdoe
 
 - 📄 Know about my experiences: [Resume](https://bit.ly/40D4QJC)
 
-- ⚡ Fun fact: I make AI art, check them out at [CivitAI](https://civitai.green/user/Derek_160)
+- ⚡ Fun fact: I make AI art, check them out at [CivitAI](https://civitai.green/user/Dxrek)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
