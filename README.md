@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/tusharpatil2912/tusharpatil2912/blob/main/banner.gif)](portfolio-website-link)
 
-# 💫 About Me: 
+## 💫 About Me: 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=4yu5h-crtl.4yu5h-crtl" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Chintalwar!" />
@@ -22,6 +22,7 @@
 📩 How to reach me: ayush.chintalwar1234@gmail.com
 
 ⚡ Fun fact: I make AI art on [CivitAI](https://civitai.green/user/Dxrek)
+<br><br>
 
 ## 🌐 My Socials:
 <div align="left">
@@ -37,7 +38,7 @@
 </div>
 <br><br>
 
-<h2>🧰 Tech Stack:</h2>
+## 🧰 Tech Stack:
 <img align="right" alt="MONEY" height="180" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <table>
   <tr>
@@ -70,37 +71,23 @@
 <br><br>
 
 
-<h2 align="left">📊 GitHub&nbsp;Stats</h2>
-
+## 📊 GitHub Stats:
 <table>
   <tr>
     <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=4yu5h-crtl&layout=compact&theme=radical&hide_border=false&include_all_commits=false&count_private=false"
-        alt="Top Languages"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4yu5h-crtl&layout=compact&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages"
       />
     </td>
     <td align="center">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=4yu5h-crtl&theme=radical&hide_border=false&include_all_commits=false&count_private=false"
-        alt="GitHub Stats"
-      />
+      <img src="https://github-readme-stats.vercel.app/api?username=4yu5h-crtl&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub             Stats" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=4yu5h-crtl&theme=radical&hide_border=false"
-        alt="GitHub Streak"
-      />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=4yu5h-crtl&theme=radical&hide_border=false" alt="GitHub Streak" />
     </td>
     <td align="center">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=4yu5h-crtl&area=true&hide_border=true&theme=redical"
-        alt="Contribution Graph"
-        height="203"
-      />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=4yu5h-crtl&area=true&hide_border=true&theme=redical" alt="Contribution Graph" height="203" />
     </td>
   </tr>
 </table>
-
