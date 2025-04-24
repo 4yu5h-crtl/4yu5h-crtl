@@ -74,11 +74,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4yu5h-crtl&layout=compact&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages"
-      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4yu5h-crtl&layout=compact&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="Top Languages"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=4yu5h-crtl&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub             Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=4yu5h-crtl&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub  Stats" />
     </td>
   </tr>
   <tr>
