@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Chintalwar!" />
 </h1>     
 
-<img align="right" alt="coding" width="280" height="280" src="https://bit.ly/448Fxkj">
+<img align="right" alt="coding" width="230" height="230" src="https://bit.ly/448Fxkj">
 
 🔭 I’m currently working on: Generative AI projects, Real-world application projects.
 
