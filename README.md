@@ -56,9 +56,9 @@
         <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch" />
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow" />
         <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino" />
+        <br><br>
         <img src="https://techbagfrontend.s3-ap-south-1.amazonaws.com/logos/sztZoD9HHo8WDwEyMWsKmJ.png" height="40" alt="Fusion 360" />
         <img src="https://drive.google.com/uc?export=view&id=1NYYigcwdiBqmIVc2or3BITCtjO3sUEOj" height="40" alt="SolidWorks" />
-        <br><br>
         <img src="https://drive.google.com/uc?export=view&id=1jPwfT6pckC_uQkTvmp7Juk7lPenUYDAv" height="40" alt="Stable Diffusion" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="36" alt="canva logo"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" height="40" alt="Streamlit" />
