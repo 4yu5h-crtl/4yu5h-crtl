@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/tusharpatil2912/tusharpatil2912/blob/main/banner.gif)
+[![MasterHead](https://github.com/tusharpatil2912/tusharpatil2912/blob/main/banner.gif)](portfolio-website-link)
 
 # 💫 About Me: 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=4yu5h-crtl.4yu5h-crtl" />
