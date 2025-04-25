@@ -16,7 +16,7 @@
 
 🌱 I’m currently exploring: "Vibe-coding"- using tools like Cursor powered by LLMs to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;build and prototype faster.
 
-💬 Ask me about: Robotics, AI Art, Embedded ML, and creative tech builds.
+💬 Ask me about: IoT, creative tech builds, and AI Art.
 
 📩 How to reach me: ayush.chintalwar1234@gmail.com
 
