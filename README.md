@@ -90,7 +90,7 @@
   </tr>
 </table>
 
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4yu5h-crtl/4yu5h-crtl/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4yu5h-crtl/4yu5h-crtl/output/github-snake.svg" />
