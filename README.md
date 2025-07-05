@@ -24,17 +24,17 @@
 <br><br>
 
 ## 🌐 My Socials:
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/ayush-chintalwar-18b9b1259/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="42" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="42" alt="LinkedIn logo"/>
   </a>
   <a href="https://medium.com/@mindofmachina" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="42" alt="medium logo"/>
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="42" alt="Medium logo"/>
   </a>
   <a href="https://kaggle.com/ayush1364" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=flat" height="42" alt="kaggle logo"/>
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=flat" height="42" alt="Kaggle logo"/>
   </a>
-</div>
+</p>
 <br><br>
 
 ## 🧰 Tech Stack
@@ -57,9 +57,9 @@
   <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" alt="Streamlit" width="40" height="40"/>
   </a>
-  <a href="https://www.autodesk.com/products/fusion-360" target="_blank"><img src="https://images.seeklogo.com/logo-png/48/1/autodesk-fusion-360-logo-png_seeklogo-482400.png" alt="Fusion 360" width="40" height="40"/></a>
-  <a href="https://www.solidworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Solidworks_logo.svg" alt="SolidWorks" width="40" height="40"/></a>
-  <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Stable_Diffusion_logo.svg" alt="Stable Diffusion" width="40" height="40"/></a>
+  <a href="https://www.autodesk.com/products/fusion-360" target="_blank"><img src="images/fusion360.png" alt="Fusion 360" width="40" height="40"/></a>
+  <a href="https://www.solidworks.com/" target="_blank"><img src="images/solidworks.png" alt="SolidWorks" width="40" height="40"/></a>
+  <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank"><img src="images/stablediffusion.png" alt="Stable Diffusion" width="40" height="40"/></a>
 </p>
 <br><br><br><br>
 
