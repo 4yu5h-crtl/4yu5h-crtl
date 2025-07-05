@@ -29,7 +29,7 @@
   <a href="https://medium.com/@mindofmachina" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" width="120" height="50" alt="Medium logo"/></a>
   <a href="https://kaggle.com/ayush1364" target="_blank"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=flat" width="120" height="50" alt="Kaggle logo"/></a>
 </p>
-<br><br>
+<br>
 
 ## 🧰 Tech Stack
 <img align="right" alt="Multitasking gif" height="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejh0MmU4c2JranE3M2Q3c3RnNDBhMDZsNXltNWVuZzZjZ2QwbWtxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I4gVv50w4RrypMBiaR/giphy.gif" />
