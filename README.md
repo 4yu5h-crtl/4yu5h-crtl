@@ -14,7 +14,7 @@
 
 🤝 I’m looking for help with: Drone flight controllers and PID Tuning.
 
-🌱 I’m currently exploring: "Vibe-coding"- using tools like Cursor powered by LLMs to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;build and prototype faster.
+🌱 I’m currently exploring: "Vibe-coding"- using tools like Cursor powered by LLMs to build and prototype faster.
 
 💬 Ask me about: IoT, creative tech builds, and AI Art.
 
