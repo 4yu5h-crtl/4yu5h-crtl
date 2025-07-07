@@ -31,7 +31,7 @@
 </p>
 
 ## 🧰 Tech Stack
-<img align="right" alt="Multitasking gif" width="250" height="50" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWM4a3pmMG54YXFjbDUzbDJpY2RpbmEzZ2ZhYzRzN3ZpNHVuM2w4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+<img align="right" alt="Multitasking gif" width="200" height="50" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWM4a3pmMG54YXFjbDUzbDJpY2RpbmEzZ2ZhYzRzN3ZpNHVuM2w4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
