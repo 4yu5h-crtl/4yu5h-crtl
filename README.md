@@ -25,8 +25,8 @@
 
 ## 🌐 My Socials:
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-chintalwar-18b9b1259/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" width="100" height="20" alt="LinkedIn logo"/></a>
-  <a href="https://medium.com/@mindofmachina" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" width="120" height="50" alt="Medium logo"/></a>
+  <a href="https://www.linkedin.com/in/ayush-chintalwar-18b9b1259/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" width="110" height="30" alt="LinkedIn logo"/></a>
+  <a href="https://medium.com/@mindofmachina" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" width="110" height="30" alt="Medium logo"/></a>
   <a href="https://kaggle.com/ayush1364" target="_blank"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=flat" width="110" height="30" alt="Kaggle logo"/></a>
 </p>
 
