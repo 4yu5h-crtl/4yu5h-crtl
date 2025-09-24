@@ -20,7 +20,7 @@
 
 📩 How to reach me: ayush.chintalwar1234@gmail.com
 
-⚡ Fun fact: I make AI art on [CivitAI](https://civitai.green/user/Dxrek)
+⚡ Fun fact: I make AI art on [CivitAI](https://civitai.com/user/Dxrek)
 <br><br>
 
 ## 🌐 My Socials:
