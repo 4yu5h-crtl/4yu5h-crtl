@@ -40,7 +40,6 @@
   <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
   <a href="https://developer.android.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.comfy.org/" target="_blank"><img src="images/comfyui.png" alt="ComfyUi" width="40" height="40"/></a>
   <!-- <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a> -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/ </a>
@@ -53,6 +52,7 @@
   <a href="https://www.autodesk.com/products/fusion-360" target="_blank"><img src="images/fusion360.png" alt="Fusion 360" width="35" height="35"/></a>
   <a href="https://www.solidworks.com/" target="_blank"><img src="images/solidworks.png" alt="SolidWorks" width="40" height="40"/></a>
   <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank"><img src="images/stablediffusion.png" alt="Stable Diffusion" width="40" height="40"/></a>
+  <a href="https://www.comfy.org/" target="_blank"><img src="images/comfyui.png" alt="ComfyUi" width="40" height="40"/></a>
 </p>
 <br><br><br><br>
 
