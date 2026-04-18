@@ -16,7 +16,7 @@
 
 🌱 I’m currently exploring: "Vibe-coding..."
 
-💬 Ask me about: Creative tech builds, and AI Art.
+💬 Ask me about: Creative tech builds and AI Art.
 
 📩 How to reach me: ayush.chintalwar1234@gmail.com
 
