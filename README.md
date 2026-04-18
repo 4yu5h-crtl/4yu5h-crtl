@@ -14,45 +14,66 @@
 
 🤝 I’m looking for help with: Drone flight controllers and PID Tuning.
 
-🌱 I’m currently exploring: "Vibe-coding"- using tools like Cursor powered by LLMs to &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;build and prototype faster.
+🌱 I’m currently exploring: "Vibe-coding..."
 
-💬 Ask me about: IoT, creative tech builds, and AI Art.
+💬 Ask me about: Creative tech builds, and AI Art.
 
 📩 How to reach me: ayush.chintalwar1234@gmail.com
 
 ⚡ Fun fact: I make AI art on [CivitAI](https://civitai.com/user/Dxrek)
 <br><br>
 
-## 🌐 My Socials:
+## 🌐 Socials
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-chintalwar-18b9b1259/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" width="110" height="30" alt="LinkedIn logo"/></a>
-  <a href="https://medium.com/@mindofmachina" target="_blank"><img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" width="110" height="30" alt="Medium logo"/></a>
-  <a href="https://kaggle.com/ayush1364" target="_blank"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=flat" width="110" height="30" alt="Kaggle logo"/></a>
+  <a href="https://www.linkedin.com/in/ayush-chintalwar-18b9b1259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@mindofmachina">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://kaggle.com/ayush1364">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
 </p>
+<br>
 
 ## 🧰 Tech Stack
-<img align="right" alt="Multitasking gif" width="200" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWM4a3pmMG54YXFjbDUzbDJpY2RpbmEzZ2ZhYzRzN3ZpNHVuM2w4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/ </a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" alt="LangChain" width="40" height="40"/></a>
-</a>
-  <a href="https://www.autodesk.com/products/fusion-360" target="_blank"><img src="images/fusion360.png" alt="Fusion 360" width="35" height="35"/></a>
-  <a href="https://www.solidworks.com/" target="_blank"><img src="images/solidworks.png" alt="SolidWorks" width="40" height="40"/></a>
-  <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank"><img src="images/stablediffusion.png" alt="Stable Diffusion" width="40" height="40"/></a>
-  <a href="https://www.comfy.org/" target="_blank"><img src="images/comfyui.png" alt="ComfyUi" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="images/unity.png" alt="Unity" width="40" height="40"/></a>
-</p>
-<br><br><br><br>
 
+**Languages & Core Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white)
+
+**Creative & Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+**Generative AI**
+
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8A2BE2?style=for-the-badge&logoColor=white) 
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1a1a2e?style=for-the-badge&logoColor=white) 
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+**IoT & Hardware**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logoColor=white)
+<br><br>
 
 ## 📊 GitHub Stats:
 <table>
@@ -73,11 +94,12 @@
     </td>
   </tr>
 </table>
+<br>
 
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4yu5h-crtl/4yu5h-crtl/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4yu5h-crtl/4yu5h-crtl/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/4yu5h-crtl/4yu5h-crtl/output/github-snake.svg" />
-</picture>
--->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4yu5h-crtl/4yu5h-crtl/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4yu5h-crtl/4yu5h-crtl/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/4yu5h-crtl/4yu5h-crtl/output/github-snake.svg" />
+  </picture>
+</div>
