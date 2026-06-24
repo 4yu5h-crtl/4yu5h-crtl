@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/tusharpatil2912/tusharpatil2912/blob/main/banner.gif)](https://ayush-chintalwar.netlify.app/)
+[![MasterHead](https://github.com/tusharpatil2912/tusharpatil2912/blob/main/banner.gif)](https://ayush-chintalwar.vercel.app/)
 
 ## 💫 About Me:
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=4yu5h-crtl.4yu5h-crtl" />
