@@ -14,9 +14,9 @@
 
 🤝 I’m looking for help with: Drone flight controllers and PID Tuning.
 
-🌱 I’m currently exploring: "Vibe-coding..."
+🌱 I’m currently exploring: "Vibe Coding and Agentic Ai..."
 
-💬 Ask me about: Creative tech builds and AI Art.
+💬 Ask me about: Creative tech builds and IoT.
 
 📩 How to reach me: ayush.chintalwar1234@gmail.com
 
